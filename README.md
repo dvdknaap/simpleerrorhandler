@@ -1,4 +1,6 @@
 # Simple Error handler
+[![NPM Version](http://img.shields.io/npm/v/simpleerrorhandler.svg?style=flat)](https://www.npmjs.org/package/simpleerrorhandler)
+
 Easy to use error handler - mail uncaughtException, SIGINT and process exits
 
 #### Install
