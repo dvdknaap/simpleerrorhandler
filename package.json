@@ -1,8 +1,8 @@
 {
   "name": "simpleerrorhandler",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simple error handler",
-  "main": "errorhandler.js",
+  "main": "simpleerrorhandler.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
