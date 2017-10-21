@@ -1,0 +1,27 @@
+{
+  "name": "simpleerrorhandler",
+  "version": "1.0.0",
+  "description": "Simple error handler",
+  "main": "errorhandler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvdknaap/simpleerrorhandler.git"
+  },
+  "keywords": [
+    "errorhandler",
+    "nodejs"
+  ],
+  "author": "Danny van der Knaap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dvdknaap/simpleerrorhandler/issues"
+  },
+  "homepage": "https://github.com/dvdknaap/simpleerrorhandler#readme",
+  "dependencies": {
+    "simplemailer": "^1.0.1",
+    "tableify": "^1.1.0"
+  }
+}
