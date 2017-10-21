@@ -1,6 +1,6 @@
 {
   "name": "simpleerrorhandler",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple error handler",
   "main": "errorhandler.js",
   "scripts": {
@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/dvdknaap/simpleerrorhandler#readme",
   "dependencies": {
-    "simplemailer": "^1.0.1",
+    "simplemailer": "^1.0.2",
     "tableify": "^1.1.0"
   }
 }
