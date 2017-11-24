@@ -6,10 +6,8 @@ Easy to use error handler - mail uncaughtException, SIGINT and process exits
 #### Install
 ```npm install simpleerrorhandler```
 
-
 #### Test
 ```node tests/examples.js```
-
 
 
 #### Easy To use
@@ -19,7 +17,7 @@ Easy to use error handler - mail uncaughtException, SIGINT and process exits
 const simpleErrorHandler = require('simpleerrorhandler');
 
 //Set error handling
-simpleErrorHandler.init();
+simpleErrorHandler.init('/location/to/your/config.json');
 
 ```
 
