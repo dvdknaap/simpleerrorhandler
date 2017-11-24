@@ -1,6 +1,6 @@
 {
   "name": "simpleerrorhandler",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "description": "Simple error handler",
   "main": "simpleerrorhandler.js",
   "scripts": {
@@ -15,13 +15,13 @@
     "nodejs"
   ],
   "author": "Danny van der Knaap",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/dvdknaap/simpleerrorhandler/issues"
   },
   "homepage": "https://github.com/dvdknaap/simpleerrorhandler#readme",
   "dependencies": {
-    "simplemailer": "^1.0.2",
+    "simplemailer": "^1.0.4",
     "tableify": "^1.1.0"
   }
 }

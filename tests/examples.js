@@ -6,7 +6,7 @@ const simpleErrorHandler = require('../simpleerrorhandler.js');
 */
 
 //Set error handling
-simpleErrorHandler.init();
+simpleErrorHandler.init('/location/to/your/config.json');
 
 
 // exit after timeout
